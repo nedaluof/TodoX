@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TodoX</string>
+    <string name="menu_delete_label">Delete</string>
+    <string name="menu_edit_label">Edit</string>
+    <string name="edt_title_label">Title</string>
+    <string name="edt_description_label">Description</string>
+    <string name="operation_bt_label_op1">Add</string>
+    <string name="operation_bt_label_op2">Update</string>
+    <string name="bottom_sheet_title_label_op1">Add New Todo</string>
+    <string name="bottom_sheet_title_label_op2">Update Todo</string>
+    <string name="select_option_label">Select Option</string>
+</resources>
