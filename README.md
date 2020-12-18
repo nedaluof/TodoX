@@ -16,7 +16,7 @@ TodoX 🏋🏽🛠  - simple Todo App  , Hilt for the Dependency Injection , MVV
   - Repository pattern
   
  ### Coming changes :-
- - Replace RxJava with Coroutines & Flow.
+ - ~~Replace RxJava with Coroutines & Flow.~~
  - Optimize The UI with the Material Component.
  - Expand the Functionallity.
  
