@@ -4,7 +4,7 @@ TodoX 🏋🏽🛠  - simple Todo App  , Hilt for the Dependency Injection , MVV
 
 ### Tech stack
 - The entire app writen with [Kotlin](https://kotlinlang.org/).
-- [Rxjava](https://github.com/ReactiveX/RxJava) with [RxAndroid](https://github.com/ReactiveX/RxAndroid) for asynchronous tasks.
+- [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
 - [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) for dependency injection.
 - JetPack
   - LiveData.
