@@ -1,6 +1,6 @@
 ![Logo](/art/header.png)
 # TodoX
-TodoX 🏋🏽🛠  - simple Todo App  , Hilt for the Dependency Injection , MVVM Architecture 💉
+TodoX 🏋🏽🛠  - simple Todo App  ,MVVM Architecture with Hilt for the Dependency Injection 💉
 
 ### Tech stack
 - The entire app writen with [Kotlin](https://kotlinlang.org/).
