@@ -18,7 +18,7 @@ TodoX 🏋🏽🛠  - simple Todo App  ,MVVM Architecture with Hilt for the Depe
  ### Coming changes :-
  - ~~Replace RxJava with Coroutines & Flow.~~
  - Optimize The UI with the Material Component.
- - Expand the Functionallity.
+ - Expand the Functionallity and add reminder (alarms for todoX).
  
  ## License
 
